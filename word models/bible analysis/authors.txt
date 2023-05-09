@@ -1,0 +1,67 @@
+Book,Author
+Genesis,Moses
+Exodus,Moses
+Leviticus,Moses
+Numbers,Moses
+Deuteronomy,Moses
+Joshua,Joshua
+Judges,Unknown
+Ruth,Samuel
+1 Samuel,Samuel
+2 Samuel,Nathan and Gad
+1 Kings,Jeremiah
+2 Kings,Jeremiah
+1 Chronicles,Ezra
+2 Chronicles,Ezra
+Ezra,Ezra
+Nehemiah,Nehemiah
+Esther,Unknown
+Job,Unknown
+Psalms,David and others
+Proverbs,Solomon and others
+Ecclesiastes,Solomon
+Song of Solomon,Solomon
+Isaiah,Isaiah
+Jeremiah,Jeremiah
+Lamentations,Jeremiah
+Ezekiel,Ezekiel
+Daniel,Daniel
+Hosea,Hosea
+Joel,Joel
+Amos,Amos
+Obadiah,Obadiah
+Jonah,Jonah
+Micah,Micah
+Nahum,Nahum
+Habakkuk,Habakkuk
+Zephaniah,Zephaniah
+Haggai,Haggai
+Zechariah,Zechariah
+Malachi,Malachi
+Matthew,Matthew
+Mark,John Mark
+Luke,Luke
+John,John
+Acts of the Apostles,Luke
+Romans,Paul
+1 Corinthians,Paul
+2 Corinthians,Paul
+Galatians,Paul
+Ephesians,Paul
+Philippians,Paul
+Colossians,Paul
+1 Thessalonians,Paul
+2 Thessalonians,Paul
+1 Timothy,Paul
+2 Timothy,Paul
+Titus,Paul
+Philemon,Paul
+Hebrews,Unknown (traditionally attributed to Paul)
+James,James (traditionally attributed to the brother of Jesus)
+1 Peter,Peter
+2 Peter,Peter
+1 John,John
+2 John,John
+3 John,John
+Jude,Jude
+Revelation,John (traditionally attributed to John the Apostle)
